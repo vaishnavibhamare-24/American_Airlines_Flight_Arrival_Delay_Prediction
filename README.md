@@ -21,7 +21,7 @@ Departure & arrival delays
 Airport information
 Flight status updates
 
-3. Weather Data
+2. Weather Data
 Source: NOAA Global Hourly Dataset
 Features used:
 Temperature
