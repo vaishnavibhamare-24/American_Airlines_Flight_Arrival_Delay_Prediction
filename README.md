@@ -289,7 +289,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost openpyxl jupyte
 
 ## 👨‍💻 Author
 
-**Your Name**
 Vaishnavi Bhamare
 
 ---
